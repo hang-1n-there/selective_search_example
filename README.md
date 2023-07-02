@@ -11,19 +11,25 @@
 ---
 
 ## Original image
-![Untitled](/0.%20Img/IU.jpg)
+<p align="center">
+  <img src="https://github.com/hang-1n-there/selective_search_example/assets/106570569/492290bd-24e3-4d5a-8066-341c6168515b">
+</p>
 
 ---
 ## Region
-
-![Untitled](/0.%20Img/Figure_2.png)
+<p align="center">
+  <img src="https://github.com/hang-1n-there/selective_search_example/assets/106570569/3c535014-443d-4702-90a0-6806dbf8e1b9">
+</p>
 
 ---
 ## Ground truth
 
-![Untitled](/0.%20Img/Figure_3.png)
+<p align="center">
+  <img src="https://github.com/hang-1n-there/selective_search_example/assets/106570569/e0894b3f-b181-43cf-b58b-046b461e99b1">
+</p>
 
 ---
 ## Region proposals with iou greater than 0.5
-
-![Untitled](/0.%20Img/result.png)
+<p align="center">
+  <img src="https://github.com/hang-1n-there/selective_search_example/assets/106570569/2646035d-20f4-4b75-81ca-0559be326de4">
+</p>
